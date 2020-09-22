@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Lommeregner {
     public static void main(String[]args) {
 
+        //Test-kommentar fra Ece
         System.out.println("Indtast 2 tal:");
         Scanner math = new Scanner(System.in);
         int tal1 = math.nextInt();
