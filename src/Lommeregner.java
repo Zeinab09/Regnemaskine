@@ -10,7 +10,7 @@ public class Lommeregner {
         System.out.println("Kunne du tænke dig at +, -, * eller /?");
         String regne = math.next();
 
-        if (regne.equals("+")){
+        if (regne.equals("*")){
             int total = tal1 + tal2;
             System.out.println(total);
         }
