@@ -12,7 +12,7 @@ public class Lommeregner {
         String regne = math.next();
 
         if (regne.equals("+")){
-            int total = tal1 + tal2;
+            int total = tal1 * tal2;
             System.out.println(total);
         }
         else if (regne.equals("-")){
